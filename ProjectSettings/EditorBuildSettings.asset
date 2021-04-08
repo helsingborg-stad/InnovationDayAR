@@ -5,12 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Scenes/HelloAR.unity
     guid: 2b448ed386319446486bdd5e51746c19
+  - enabled: 0
+    path: Assets/Scenes/MarkerBasedAR.unity
+    guid: cbfd5b5ee240f4269b1c3645a28d0fb8
+  - enabled: 1
+    path: Assets/Scenes/TapToPlaceCube.unity
+    guid: 848f46a36c4fc490ba9c3d9abf7c4920
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 925ed9fa8825943f88e70fc61f30a43c,
       type: 2}
